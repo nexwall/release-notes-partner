@@ -1,0 +1,46 @@
+{
+ "title": "Portal de Socios 1.0.0",
+ "summary": "La primera versión: clientes, firewalls, licencias, alertas e informes de valor para el cliente en un solo portal, en inglés, español y portugués.",
+ "items": [
+  {
+   "tag": "new",
+   "title": "Página de flota de firewalls",
+   "body": "Una página lista los firewalls de todos sus clientes, con su estado, recopilados del controlador de cada cliente."
+  },
+  {
+   "tag": "new",
+   "title": "Resumen de licencias y alertas",
+   "body": "El panel muestra las licencias y las alertas de firewall que requieren atención, con los menús Firewalls y Endpoints."
+  },
+  {
+   "tag": "new",
+   "title": "Notificaciones de alertas",
+   "body": "Cada organización elige cómo recibir avisos de alertas de firewall: correo, Telegram o webhook, en la pestaña Notificaciones."
+  },
+  {
+   "tag": "new",
+   "title": "Informe de valor para el cliente",
+   "body": "En Informes, un informe imprimible por cliente muestra la protección, las licencias y la salud de los firewalls."
+  },
+  {
+   "tag": "new",
+   "title": "Cloud Controller por cliente",
+   "body": "Cada cliente tiene su propio espacio en el controlador, que se abre con inicio de sesión único desde el portal."
+  },
+  {
+   "tag": "new",
+   "title": "Ayuda que abre la página correcta",
+   "body": "El botón de ayuda abre la página del manual de la pantalla en la que está, en partnerdocs.nexwall.com.br."
+  },
+  {
+   "tag": "improved",
+   "title": "Tres idiomas",
+   "body": "Todo el portal, los correos de bienvenida y la página de inicio de sesión están en inglés, español y portugués. Las empresas nuevas comienzan con el idioma y el país del socio."
+  },
+  {
+   "tag": "improved",
+   "title": "Menú más limpio",
+   "body": "El menú se simplificó y los nombres de Firewalls y Brand se alinearon con el resto de los productos Nexwall."
+  }
+ ]
+}

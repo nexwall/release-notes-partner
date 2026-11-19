@@ -1,0 +1,46 @@
+{
+ "title": "Partner Portal 1.0.0",
+ "summary": "The first release: customers, firewalls, licenses, alerts and customer value reports in one portal, in English, Spanish and Portuguese.",
+ "items": [
+  {
+   "tag": "new",
+   "title": "Firewalls fleet page",
+   "body": "One page lists the firewalls of all your customers, with their status, collected from each customer's controller."
+  },
+  {
+   "tag": "new",
+   "title": "Licenses and alerts overview",
+   "body": "The dashboard shows licenses and the firewall alerts that need attention, with the menus Firewalls and Endpoints."
+  },
+  {
+   "tag": "new",
+   "title": "Alert notifications",
+   "body": "Each organization chooses how to be warned about firewall alerts: e-mail, Telegram or a webhook, in the Notifications tab."
+  },
+  {
+   "tag": "new",
+   "title": "Customer value report",
+   "body": "In Reports, a printable report per customer shows the protection, the licenses and the health of the firewalls."
+  },
+  {
+   "tag": "new",
+   "title": "Cloud Controller per customer",
+   "body": "Every customer has its own controller space, opened with single sign-on from the portal."
+  },
+  {
+   "tag": "new",
+   "title": "Help that opens the right page",
+   "body": "The help button opens the manual page of the screen you are on, at partnerdocs.nexwall.com.br."
+  },
+  {
+   "tag": "improved",
+   "title": "Three languages",
+   "body": "The whole portal, the welcome e-mails and the sign-in page are available in English, Spanish and Portuguese. New companies start in the language and country of the partner."
+  },
+  {
+   "tag": "improved",
+   "title": "Cleaner menu",
+   "body": "The menu was simplified and the names of Firewalls and Brand were aligned with the rest of the Nexwall products."
+  }
+ ]
+}

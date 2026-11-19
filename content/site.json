@@ -1,0 +1,14 @@
+{
+ "host": "releasenotes-partner.nexwall.com.br",
+ "docs_url": "https://partnerdocs.nexwall.com.br",
+ "product": {
+  "en": "Nexwall Partner Portal",
+  "es": "Portal de Socios Nexwall",
+  "pt-BR": "Portal de Parceiros Nexwall"
+ },
+ "lead": {
+  "en": "Release notes of the portal where partners manage their customers, firewalls and licenses.",
+  "es": "Notas de versión del portal donde los socios gestionan sus clientes, firewalls y licencias.",
+  "pt-BR": "Notas de versão do portal onde os parceiros gerenciam seus clientes, firewalls e licenças."
+ }
+}
