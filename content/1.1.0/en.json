@@ -1,0 +1,31 @@
+{
+ "title": "Partner Portal 1.1.0",
+ "summary": "Support page with tickets, conversation with attachments and e-mail notifications.",
+ "items": [
+  {
+   "tag": "new",
+   "title": "Support page",
+   "body": "Open and follow tickets from the portal: totals, a six-month chart, the ticket table and the conversation of each ticket."
+  },
+  {
+   "tag": "new",
+   "title": "Screenshots and files in the conversation",
+   "body": "Paste a screenshot or attach a file (images, PDF, logs, zip) to a ticket."
+  },
+  {
+   "tag": "new",
+   "title": "E-mail when there is an answer",
+   "body": "The person who opened the ticket receives an e-mail when support answers, with the ticket reference."
+  },
+  {
+   "tag": "new",
+   "title": "Tickets from the Cloud Controller",
+   "body": "Tickets opened from a customer controller appear in the same list, together with the results of the Support Packets sent from the firewall."
+  },
+  {
+   "tag": "fixed",
+   "title": "Attachment upload",
+   "body": "Uploading an image or file to a ticket failed with a 400 error in some browsers. It now works."
+  }
+ ]
+}

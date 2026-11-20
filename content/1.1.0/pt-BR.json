@@ -1,0 +1,31 @@
+{
+ "title": "Partner Portal 1.1.0",
+ "summary": "Página de Suporte com chamados, conversa com anexos e notificações por e-mail.",
+ "items": [
+  {
+   "tag": "new",
+   "title": "Página de Suporte",
+   "body": "Abra e acompanhe chamados pelo portal: totais, um gráfico de seis meses, a tabela de chamados e a conversa de cada um."
+  },
+  {
+   "tag": "new",
+   "title": "Capturas e arquivos na conversa",
+   "body": "Cole uma captura de tela ou anexe um arquivo (imagens, PDF, logs, zip) a um chamado."
+  },
+  {
+   "tag": "new",
+   "title": "E-mail quando há resposta",
+   "body": "Quem abriu o chamado recebe um e-mail quando o suporte responde, com a referência do chamado."
+  },
+  {
+   "tag": "new",
+   "title": "Chamados a partir do Cloud Controller",
+   "body": "Chamados abertos pelo controlador de um cliente aparecem na mesma lista, junto com os resultados dos Support Packets enviados do firewall."
+  },
+  {
+   "tag": "fixed",
+   "title": "Envio de anexos",
+   "body": "Enviar uma imagem ou arquivo a um chamado falhava com erro 400 em alguns navegadores. Agora funciona."
+  }
+ ]
+}

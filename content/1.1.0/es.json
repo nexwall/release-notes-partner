@@ -1,0 +1,31 @@
+{
+ "title": "Partner Portal 1.1.0",
+ "summary": "Página de Soporte con solicitudes, conversación con adjuntos y notificaciones por correo.",
+ "items": [
+  {
+   "tag": "new",
+   "title": "Página de Soporte",
+   "body": "Abra y siga solicitudes desde el portal: totales, un gráfico de seis meses, la tabla de solicitudes y la conversación de cada una."
+  },
+  {
+   "tag": "new",
+   "title": "Capturas y archivos en la conversación",
+   "body": "Pegue una captura de pantalla o adjunte un archivo (imágenes, PDF, logs, zip) a una solicitud."
+  },
+  {
+   "tag": "new",
+   "title": "Correo cuando hay respuesta",
+   "body": "Quien abrió la solicitud recibe un correo cuando soporte responde, con la referencia de la solicitud."
+  },
+  {
+   "tag": "new",
+   "title": "Solicitudes desde el Cloud Controller",
+   "body": "Las solicitudes abiertas desde el controlador de un cliente aparecen en la misma lista, junto con los resultados de los Support Packets enviados desde el firewall."
+  },
+  {
+   "tag": "fixed",
+   "title": "Carga de adjuntos",
+   "body": "Subir una imagen o archivo a una solicitud fallaba con un error 400 en algunos navegadores. Ahora funciona."
+  }
+ ]
+}
