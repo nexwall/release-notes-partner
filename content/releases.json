@@ -1,12 +1,17 @@
 [
- {
-  "version": "1.1.0",
-  "date": "2026-11-20",
-  "status": "stable"
- },
- {
-  "version": "1.0.0",
-  "date": "2026-11-19",
-  "status": "stable"
- }
+  {
+    "version": "1.2.0",
+    "date": "2026-11-21",
+    "status": "stable"
+  },
+  {
+    "version": "1.1.0",
+    "date": "2026-11-20",
+    "status": "stable"
+  },
+  {
+    "version": "1.0.0",
+    "date": "2026-11-19",
+    "status": "stable"
+  }
 ]

@@ -1,0 +1,31 @@
+{
+  "title": "Partner Portal 1.2.0",
+  "summary": "Language icon, a larger ticket window and a shorter Support page.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Language icon",
+      "body": "The top bar has a language icon: English, Italiano, Português and Español. The choice applies at once and is remembered for your user."
+    },
+    {
+      "tag": "new",
+      "title": "Ticket window",
+      "body": "A ticket opens in a large window over the page. It explains how the support works: assisted by Nexwall AI trained on the knowledge base, the documentation and the firewall behaviour, with specialists behind it, and escalation when needed."
+    },
+    {
+      "tag": "new",
+      "title": "Escalate to L2 · Advanced CLI troubleshooting",
+      "body": "The ticket window has a button that opens the Cloud Controller on the ticket's firewall, where the second level runs Support Packets and advanced CLI diagnostics."
+    },
+    {
+      "tag": "improved",
+      "title": "Conversation opens at the newest message",
+      "body": "When a ticket opens, or a message arrives, the conversation scrolls to the last message."
+    },
+    {
+      "tag": "improved",
+      "title": "Shorter Support page text",
+      "body": "The page now says in two lines how the three support levels work and that everything stays in the same ticket."
+    }
+  ]
+}

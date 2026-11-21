@@ -1,0 +1,31 @@
+{
+  "title": "Partner Portal 1.2.0",
+  "summary": "Ícone de idioma, janela de chamado maior e página de Suporte mais curta.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Ícone de idioma",
+      "body": "A barra superior tem um ícone de idioma: English, Italiano, Português e Español. A escolha vale na hora e fica lembrada para o seu usuário."
+    },
+    {
+      "tag": "new",
+      "title": "Janela do chamado",
+      "body": "O chamado abre em uma janela grande sobre a página. Ela explica como o suporte funciona: assistido pela IA da Nexwall, treinada com a base de conhecimento, a documentação e o comportamento do firewall, com especialistas por trás, e escalonamento quando necessário."
+    },
+    {
+      "tag": "new",
+      "title": "Escalar para L2 · Diagnóstico avançado por CLI",
+      "body": "A janela do chamado tem um botão que abre o Cloud Controller no firewall do chamado, onde o segundo nível executa Support Packets e diagnóstico avançado por CLI."
+    },
+    {
+      "tag": "improved",
+      "title": "A conversa abre na mensagem mais recente",
+      "body": "Ao abrir um chamado, ou quando chega uma mensagem, a conversa rola até a última mensagem."
+    },
+    {
+      "tag": "improved",
+      "title": "Texto mais curto na página de Suporte",
+      "body": "A página agora explica em duas linhas como funcionam os três níveis de suporte e que tudo fica no mesmo chamado."
+    }
+  ]
+}
