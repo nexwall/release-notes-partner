@@ -1,0 +1,31 @@
+{
+  "title": "Partner Portal 1.3.0",
+  "summary": "Controller users, forgot password, Reset MFA and locked e-mail.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Controller users",
+      "body": "Two new roles, Controller Admin and Controller User, create people who only sign in to a customer's Cloud Controller. They never see the portal. Their access to firewall groups is set in the controller."
+    },
+    {
+      "tag": "new",
+      "title": "Forgot password",
+      "body": "The portal and the controller sign-in pages have a Forgot password link: a code is sent to the e-mail and the user chooses a new password."
+    },
+    {
+      "tag": "new",
+      "title": "Reset MFA",
+      "body": "Administrators and staff can reset the two-step verification of a user from the users list, so the person registers a new device at the next sign-in."
+    },
+    {
+      "tag": "improved",
+      "title": "E-mail cannot be changed",
+      "body": "Once a user is created the e-mail is locked, because it is the sign-in name. To use another e-mail, create a new user."
+    },
+    {
+      "tag": "improved",
+      "title": "Sign in with e-mail only",
+      "body": "The sign-in pages ask for the e-mail, never a separate user name."
+    }
+  ]
+}

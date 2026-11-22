@@ -1,0 +1,31 @@
+{
+  "title": "Partner Portal 1.3.0",
+  "summary": "Usuarios del controlador, contraseña olvidada, Reset MFA y correo bloqueado.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Usuarios del controlador",
+      "body": "Dos roles nuevos, Controller Admin y Controller User, crean personas que solo inician sesión en el Cloud Controller de un cliente. Nunca ven el portal. Su acceso a grupos de firewalls se define en el controlador."
+    },
+    {
+      "tag": "new",
+      "title": "Contraseña olvidada",
+      "body": "Las páginas de inicio de sesión del portal y del controlador tienen el enlace «Olvidé mi contraseña»: se envía un código al correo y el usuario elige una nueva contraseña."
+    },
+    {
+      "tag": "new",
+      "title": "Reset MFA",
+      "body": "Administradores y staff pueden restablecer la verificación en dos pasos de un usuario desde la lista de usuarios, para que la persona registre un nuevo dispositivo en el próximo inicio de sesión."
+    },
+    {
+      "tag": "improved",
+      "title": "El correo no se puede cambiar",
+      "body": "Una vez creado el usuario, el correo queda bloqueado, porque es el nombre de inicio de sesión. Para usar otro correo, crea un usuario nuevo."
+    },
+    {
+      "tag": "improved",
+      "title": "Inicio de sesión solo con correo",
+      "body": "Las páginas de inicio de sesión piden el correo, nunca un nombre de usuario aparte."
+    }
+  ]
+}

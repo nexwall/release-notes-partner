@@ -1,0 +1,31 @@
+{
+  "title": "Partner Portal 1.3.0",
+  "summary": "Usuários do controlador, esqueci a senha, Reset MFA e e-mail bloqueado.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Usuários do controlador",
+      "body": "Dois novos perfis, Controller Admin e Controller User, criam pessoas que só entram no Cloud Controller de um cliente. Elas nunca veem o portal. O acesso a grupos de firewalls é definido no controlador."
+    },
+    {
+      "tag": "new",
+      "title": "Esqueci a senha",
+      "body": "As páginas de login do portal e do controlador têm o link «Esqueci a senha»: um código é enviado ao e-mail e o usuário escolhe uma nova senha."
+    },
+    {
+      "tag": "new",
+      "title": "Reset MFA",
+      "body": "Administradores e staff podem redefinir a verificação em duas etapas de um usuário na lista de usuários, para que a pessoa cadastre um novo dispositivo no próximo login."
+    },
+    {
+      "tag": "improved",
+      "title": "O e-mail não pode ser alterado",
+      "body": "Depois que o usuário é criado, o e-mail fica bloqueado, pois é o nome de login. Para usar outro e-mail, crie um novo usuário."
+    },
+    {
+      "tag": "improved",
+      "title": "Login somente com e-mail",
+      "body": "As páginas de login pedem o e-mail, nunca um nome de usuário separado."
+    }
+  ]
+}
