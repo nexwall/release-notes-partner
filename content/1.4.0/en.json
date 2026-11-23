@@ -1,0 +1,61 @@
+{
+  "title": "Partner Portal 1.4.0",
+  "summary": "Buy and renew plans with Mercado Pago, plan codes NW-50, NW-250 and NW-1000, renewal by resellers and alert e-mails in Portuguese and Spanish.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Buy plans on the Licences page",
+      "body": "Tick the firewalls, click a plan and pay with Mercado Pago. Plans are per firewall for 6 or 12 months, prices are shown before you pay, and the plan is applied to the firewall when the payment is confirmed."
+    },
+    {
+      "tag": "new",
+      "title": "Plan codes",
+      "body": "The plans are NW-50, NW-250 and NW-1000, the same in every language. The Licences table has a Plan column next to the Licence status."
+    },
+    {
+      "tag": "new",
+      "title": "Receipt and invoice",
+      "body": "The buyer receives a receipt by e-mail and Nexwall receives the request to issue the invoice (nota fiscal)."
+    },
+    {
+      "tag": "new",
+      "title": "Renewal by resellers",
+      "body": "A distributor that owns a customer's licence can allow chosen resellers to buy and pay its renewals. Resellers see Managed by distributor or Renewal allowed on the firewall."
+    },
+    {
+      "tag": "new",
+      "title": "Refunds revoke the plan",
+      "body": "When a payment is refunded the plan bought with it is revoked and the order shows Refunded. A partial refund or a different amount is flagged for review."
+    },
+    {
+      "tag": "improved",
+      "title": "Rules for upgrades and several firewalls",
+      "body": "The same plan extends the licence, a bigger plan starts when the current term ends and a smaller plan is refused. With several firewalls selected only the plans allowed for all of them are enabled."
+    },
+    {
+      "tag": "improved",
+      "title": "Firewall checks in after a purchase",
+      "body": "The portal asks the firewall to check in with the licence server as soon as the plan is applied, so Licence turns Active without waiting for the next scheduled check-in."
+    },
+    {
+      "tag": "improved",
+      "title": "Licence and Plan explained",
+      "body": "The Licences page now says that Licence is what the firewall reports and Plan is what the licence server assigned."
+    },
+    {
+      "tag": "improved",
+      "title": "Alert e-mails in Portuguese and Spanish",
+      "body": "Alert e-mails and Telegram messages exist in Portuguese and Spanish, and each e-mail recipient has its own language."
+    },
+    {
+      "tag": "changed",
+      "title": "Portuguese is the default e-mail language",
+      "body": "Welcome, resend, CSV import and alert e-mails default to Portuguese. The language of the user's company is used when it is set."
+    },
+    {
+      "tag": "changed",
+      "title": "Nexwall brand only",
+      "body": "E-mails and screens carry only the Nexwall name, logo and contacts."
+    }
+  ]
+}

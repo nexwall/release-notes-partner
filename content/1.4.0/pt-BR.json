@@ -1,0 +1,61 @@
+{
+  "title": "Portal de Parceiros 1.4.0",
+  "summary": "Compre e renove planos com Mercado Pago, planos NW-50, NW-250 e NW-1000, renovação por revendedores e e-mails de alerta em português e espanhol.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Compre planos na página Licenças",
+      "body": "Marque os firewalls, clique em um plano e pague com Mercado Pago. Os planos são por firewall, por 6 ou 12 meses, os preços aparecem antes de pagar e o plano é aplicado ao firewall quando o pagamento é confirmado."
+    },
+    {
+      "tag": "new",
+      "title": "Códigos dos planos",
+      "body": "Os planos são NW-50, NW-250 e NW-1000, iguais em todos os idiomas. A tabela de Licenças tem uma coluna Plano ao lado do status da licença."
+    },
+    {
+      "tag": "new",
+      "title": "Recibo e nota fiscal",
+      "body": "O comprador recebe um recibo por e-mail e a Nexwall recebe o pedido para emitir a nota fiscal."
+    },
+    {
+      "tag": "new",
+      "title": "Renovação por revendedores",
+      "body": "Um distribuidor dono da licença de um cliente pode permitir que revendedores escolhidos comprem e paguem as renovações. Os revendedores veem Gerenciado pelo distribuidor ou Renovação permitida no firewall."
+    },
+    {
+      "tag": "new",
+      "title": "Reembolso revoga o plano",
+      "body": "Quando um pagamento é reembolsado, o plano comprado com ele é revogado e o pedido mostra Reembolsado. Reembolso parcial ou valor diferente é sinalizado para análise."
+    },
+    {
+      "tag": "improved",
+      "title": "Regras para upgrade e vários firewalls",
+      "body": "O mesmo plano estende a licença, um plano maior começa quando o período atual termina e um plano menor é recusado. Com vários firewalls marcados, só ficam habilitados os planos permitidos para todos."
+    },
+    {
+      "tag": "improved",
+      "title": "O firewall verifica após a compra",
+      "body": "O portal pede ao firewall que verifique com o servidor de licenças assim que o plano é aplicado, então Licença passa a Ativa sem esperar a próxima verificação agendada."
+    },
+    {
+      "tag": "improved",
+      "title": "Licença e Plano explicados",
+      "body": "A página Licenças agora diz que Licença é o que o firewall informa e Plano é o que o servidor de licenças atribuiu."
+    },
+    {
+      "tag": "improved",
+      "title": "E-mails de alerta em português e espanhol",
+      "body": "Os e-mails de alerta e as mensagens do Telegram existem em português e espanhol, e cada destinatário de e-mail tem o seu idioma."
+    },
+    {
+      "tag": "changed",
+      "title": "Português é o idioma padrão dos e-mails",
+      "body": "Os e-mails de boas-vindas, reenvio, importação CSV e alertas usam português por padrão. O idioma da empresa do usuário é usado quando definido."
+    },
+    {
+      "tag": "changed",
+      "title": "Somente a marca Nexwall",
+      "body": "Os e-mails e as telas trazem apenas o nome, o logotipo e os contatos da Nexwall."
+    }
+  ]
+}

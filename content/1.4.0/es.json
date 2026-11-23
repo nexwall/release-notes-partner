@@ -1,0 +1,61 @@
+{
+  "title": "Portal de Socios 1.4.0",
+  "summary": "Compre y renueve planes con Mercado Pago, planes NW-50, NW-250 y NW-1000, renovación por revendedores y e-mails de alerta en portugués y español.",
+  "items": [
+    {
+      "tag": "new",
+      "title": "Compre planes en la página Licencias",
+      "body": "Marque los firewalls, haga clic en un plan y pague con Mercado Pago. Los planes son por firewall, por 6 o 12 meses, los precios se muestran antes de pagar y el plan se aplica al firewall cuando se confirma el pago."
+    },
+    {
+      "tag": "new",
+      "title": "Códigos de los planes",
+      "body": "Los planes son NW-50, NW-250 y NW-1000, iguales en todos los idiomas. La tabla de Licencias tiene una columna Plan junto al estado de la licencia."
+    },
+    {
+      "tag": "new",
+      "title": "Recibo y factura",
+      "body": "El comprador recibe un recibo por e-mail y Nexwall recibe la solicitud para emitir la factura (nota fiscal)."
+    },
+    {
+      "tag": "new",
+      "title": "Renovación por revendedores",
+      "body": "Un distribuidor dueño de la licencia de un cliente puede permitir que revendedores elegidos compren y paguen sus renovaciones. Los revendedores ven Gestionado por el distribuidor o Renovación permitida en el firewall."
+    },
+    {
+      "tag": "new",
+      "title": "El reembolso revoca el plan",
+      "body": "Cuando se reembolsa un pago, el plan comprado con él se revoca y el pedido muestra Reembolsado. Un reembolso parcial o un importe distinto se marca para revisión."
+    },
+    {
+      "tag": "improved",
+      "title": "Reglas de mejora y varios firewalls",
+      "body": "El mismo plan extiende la licencia, un plan mayor empieza cuando termina el período actual y un plan menor se rechaza. Con varios firewalls marcados solo se habilitan los planes permitidos para todos."
+    },
+    {
+      "tag": "improved",
+      "title": "El firewall verifica tras la compra",
+      "body": "El portal le pide al firewall que verifique con el servidor de licencias en cuanto se aplica el plan, así Licencia pasa a Activa sin esperar la siguiente verificación programada."
+    },
+    {
+      "tag": "improved",
+      "title": "Licencia y Plan explicados",
+      "body": "La página Licencias ahora dice que Licencia es lo que informa el firewall y Plan es lo que asignó el servidor de licencias."
+    },
+    {
+      "tag": "improved",
+      "title": "E-mails de alerta en portugués y español",
+      "body": "Los e-mails de alerta y los mensajes de Telegram existen en portugués y español, y cada destinatario de e-mail tiene su propio idioma."
+    },
+    {
+      "tag": "changed",
+      "title": "El portugués es el idioma predeterminado de los e-mails",
+      "body": "Los e-mails de bienvenida, reenvío, importación CSV y alertas usan portugués por defecto. Se usa el idioma de la empresa del usuario cuando está definido."
+    },
+    {
+      "tag": "changed",
+      "title": "Solo la marca Nexwall",
+      "body": "Los e-mails y las pantallas llevan solo el nombre, el logotipo y los contactos de Nexwall."
+    }
+  ]
+}
